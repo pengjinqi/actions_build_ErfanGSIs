@@ -16,7 +16,7 @@ on:
 env:
   http://bigota.d.miui.com/20.5.13/miui_TUCANA_20.5.13_98a69db675_10.0.zip
   ROM_NAME:http://bigota.d.miui.com/20.5.13/miui_TUCANA_20.5.13_98a69db675_10.0.zip
-  TZ: Asia/Shanghai
+  
 
 jobs:
   build:
